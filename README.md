@@ -7,7 +7,7 @@ I am working at Xibbon building fun mobile applications like [La Terminal](https
 These days, when my pleasure hacking ist mostly done in Swift code:
 * [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - VT100/Xterm terminal emulator
 * [SwiftGodot](https://github.com/migueldeicaza/SwiftGodot) - Swift bindings for the [Godot game engine](https://godotengine.org)
-* [SwiftGodotKit]
+* [SwiftGodotKit](https://github.com/migueldeicaza/SwiftGodotKit) - a companion to SwiftGodotKit to drive Godot from Swift.
 * [SkiaKit](https://github.com/migueldeicaza/SkiaKit) - Swift bindings to the Skia library
 * [TermKit](https://github.com/migueldeicaza/migueldeicaza/edit/main/README.md) - Text mode UI toolkit for Swift
 * [TextBufferKit](https://github.com/migueldeicaza/Textbufferkit) - port of the Visual Studio Code TextBuffer storage engine to Swift
