@@ -9,7 +9,7 @@ These days, when I am hacking for pleasure, I mostly do it in Swift:
 * [SwiftGodot](https://github.com/migueldeicaza/SwiftGodot) - Swift bindings for the [Godot game engine](https://godotengine.org)
 * [SwiftGodotKit](https://github.com/migueldeicaza/SwiftGodotKit) - a companion to SwiftGodotKit to drive Godot from Swift.
 * [SkiaKit](https://github.com/migueldeicaza/SkiaKit) - Swift bindings to the Skia library
-* [TermKit](https://github.com/migueldeicaza/migueldeicaza/edit/main/README.md) - Text mode UI toolkit for Swift
+* [TermKit](https://github.com/migueldeicaza/TermKit) - Text mode UI toolkit for Swift
 * [TextBufferKit](https://github.com/migueldeicaza/Textbufferkit) - port of the Visual Studio Code TextBuffer storage engine to Swift
 * [PlaticaBot](https://github.com/migueldeicaza/platicabot) - my MacOS, iOS and WatchOS client for ChatGPT
 * [TurboSwift](https://github.com/migueldeicaza/turboswift) - my joke TUI IDE for Swift
