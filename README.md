@@ -2,7 +2,7 @@
 
 # These days
 
-I am working at Xibbon building fun mobile applications like [La Terminal](https://github.com/xibbon/LaTerminal) and [El Pintador](https://el-pintador.com)
+I am working at Xibbon building fun mobile applications like [La Terminal](https://github.com/xibbon/LaTerminal), [El Pintador](https://el-pintador.com) and some RealityKit/VisionOS libraries.
 
 These days, when I am hacking for pleasure, I mostly do it in Swift:
 * [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - VT100/Xterm terminal emulator
@@ -13,6 +13,7 @@ These days, when I am hacking for pleasure, I mostly do it in Swift:
 * [TextBufferKit](https://github.com/migueldeicaza/Textbufferkit) - port of the Visual Studio Code TextBuffer storage engine to Swift
 * [PlaticaBot](https://github.com/migueldeicaza/platicabot) - my MacOS, iOS and WatchOS client for ChatGPT
 * [TurboSwift](https://github.com/migueldeicaza/turboswift) - my joke TUI IDE for Swift
+* [SwiftNavigation](https://xibbon.github.io/SwiftNavigationDocs/documentation/swiftnavigation/) - RecastNavigation/Detour for Swift
 
 # Past
 
