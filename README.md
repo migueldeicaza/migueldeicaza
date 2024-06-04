@@ -2,7 +2,7 @@
 
 # These days
 
-I am working at Xibbon building fun mobile applications like [La Terminal](https://github.com/xibbon/LaTerminal), [El Pintador](https://el-pintador.com) and some RealityKit/VisionOS libraries.
+I am working at Xibbon building fun mobile applications like [Godot for iPad](https://blog.la-terminal.net/igodot/), [La Terminal](https://github.com/xibbon/LaTerminal), [El Pintador](https://el-pintador.com), some RealityKit/VisionOS libraries.
 
 These days, when I am hacking for pleasure, I mostly do it in Swift:
 * [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - VT100/Xterm terminal emulator
