@@ -13,7 +13,7 @@ These days, when I am hacking for pleasure, I mostly do it in Swift:
 * [TextBufferKit](https://github.com/migueldeicaza/Textbufferkit) - port of the Visual Studio Code TextBuffer storage engine to Swift
 * [PlaticaBot](https://github.com/migueldeicaza/platicabot) - my MacOS, iOS and WatchOS client for ChatGPT
 * [TurboSwift](https://github.com/migueldeicaza/turboswift) - my joke TUI IDE for Swift
-* [SwiftNavigation](https://xibbon.github.io/SwiftNavigationDocs/documentation/swiftnavigation/) - RecastNavigation/Detour for Swift
+* [SwiftNavigation](https://github.com/migueldeicaza/SwiftNavigation/) - RecastNavigation/Detour for Swift
 * [RealityActions](https://github.com/migueldeicaza/RealityActions) - Cocos2D-inspired action framework for RealityKit.
 
 # Past
