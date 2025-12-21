@@ -7,7 +7,7 @@ I am working at Xibbon building fun mobile applications like [Godot for iPad](ht
 These days, when I am hacking for pleasure, I mostly do it in Swift:
 * [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm) - VT100/Xterm terminal emulator
 * [SwiftGodot](https://github.com/migueldeicaza/SwiftGodot) - Swift bindings for the [Godot game engine](https://godotengine.org)
-* [GodotApplePlugins](https://github.com/migueldeicaza/GodotApplePlugins) - Plugin to access Apple-specific features from your Godot games.
+* [GodotApplePlugins](https://github.com/migueldeicaza/GodotApplePlugins) - Plugin to access Apple-specific features from your Godot games ([use it here](https://godotengine.org/asset-library/asset/4552))
 * [SwiftGodotKit](https://github.com/migueldeicaza/SwiftGodotKit) - a companion to SwiftGodot to drive Godot from Swift.
 * [SkiaKit](https://github.com/migueldeicaza/SkiaKit) - Swift bindings to the Skia library
 * [TermKit](https://github.com/migueldeicaza/TermKit) - Text mode UI toolkit for Swift
