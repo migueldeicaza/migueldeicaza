@@ -17,6 +17,7 @@ These days, when I am hacking for pleasure, I mostly do it in Swift:
 * [SwiftNavigation](https://github.com/migueldeicaza/SwiftNavigation/) - RecastNavigation/Detour for Swift
 * [RealityActions](https://github.com/migueldeicaza/RealityActions) - Cocos2D-inspired action framework for RealityKit.
 * [MimeFoundation](https://github.com/migueldeicaza/MimeFoundation)/[MailFoundation](https://github.com/migueldeicaza/MailFoundation) - Comprehensive Mime/Mail support for Swift, a port of MimeKit/MailKit.
+* [Velox](https://github.com/velox-apps): Port of Tauri to Swift, build lightweight desktop HTML apps with Swift.
 
 # Past
 
