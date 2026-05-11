@@ -20,6 +20,7 @@ These days, when I am hacking for pleasure, I mostly do it in Swift:
 * [Velox](https://github.com/velox-apps): Port of Tauri to Swift, build lightweight desktop HTML apps with Swift.
 * [VexFoundation](https://github.com/migueldeicaza/VexFoundation): Swift port of [vexflow](https://vexflow.com)
 * [MusicDisplayKit](https://github.com/migueldeicaza/MusicDisplayKit): Swift port of [OpenSheetMusicDisplay](https://opensheetmusicdisplay.org/)
+* [Godot-USD](https://github.com/migueldeicaza/godot-usd): GDExtension to load USD files as Godot native scenes, or import them into a scene.
 
 # Past
 
